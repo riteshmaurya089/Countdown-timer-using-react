@@ -1,0 +1,35 @@
+/* styles.css */
+.timer-container {
+    text-align: center;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+  }
+  
+  .timer-input {
+    font-size: 16px;
+    padding: 8px;
+    margin: 10px;
+    text-align: center;
+  }
+  
+  .timer-display {
+    font-size: 24px;
+    margin: 10px;
+  }
+  
+  .timer-button {
+    font-size: 18px;
+    padding: 8px 16px;
+    margin: 5px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    border-radius: 4px;
+    outline: none;
+  }
+  
+  .timer-button:hover {
+    background-color: #0056b3;
+  }
+  
